@@ -4,19 +4,19 @@
     "url": "https://mobilitysol.com",
     "icon": "https://favicons.githubusercontent.com/mobilitysol.com",
     "slug": "mobility-solutions",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 3675,
-    "timeDay": 3675,
-    "timeWeek": 3675,
-    "timeMonth": 3675,
-    "timeYear": 3675,
+    "status": "up",
+    "uptime": "96.76%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "96.76%",
+    "time": 7060,
+    "timeDay": 7060,
+    "timeWeek": 7060,
+    "timeMonth": 7060,
+    "timeYear": 7060,
     "dailyMinutesDown": {
-      "2022-02-06": 0
+      "2022-02-06": 12
     }
   },
   {
@@ -126,7 +126,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-06": 320
+      "2022-02-06": 332
     }
   }
 ]
