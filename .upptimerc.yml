@@ -7,10 +7,16 @@ sites:
       url: https://mobilitysol.com
     - name: Clip Connections
       url: https://www.interclip.com
-    - name: Server Uruguay
-      url: https://clip.interclip.com
-    - name: Wildfly
+    - name: Wildfly 20
       url: https://mobilitysol.com:20443
+    - name: Wildfly 30
+      url: https://mobilitysol.com:30443
+    - name: Nextcloud Uruguay
+      url: https://clip.interclip.com/nextcloud
+    - name: Zulip Uruguay
+      url: https://zulip.mobilitysol.com:2443/
+    - name: Git Mobility
+      url: https://git.mobilitysol.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
