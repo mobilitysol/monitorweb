@@ -4,19 +4,19 @@
     "url": "https://mobilitysol.com",
     "icon": "https://favicons.githubusercontent.com/mobilitysol.com",
     "slug": "mobility-solutions",
-    "status": "down",
-    "uptime": "96.19%",
-    "uptimeDay": "96.19%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "96.19%",
-    "time": 5604,
-    "timeDay": 5604,
-    "timeWeek": 5604,
-    "timeMonth": 5604,
-    "timeYear": 5604,
+    "status": "up",
+    "uptime": "90.26%",
+    "uptimeDay": "90.26%",
+    "uptimeWeek": "90.26%",
+    "uptimeMonth": "90.26%",
+    "uptimeYear": "90.26%",
+    "time": 4990,
+    "timeDay": 4990,
+    "timeWeek": 4990,
+    "timeMonth": 4990,
+    "timeYear": 4990,
     "dailyMinutesDown": {
-      "2022-02-06": 18
+      "2022-02-06": 49
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.interclip.com",
     "icon": "https://favicons.githubusercontent.com/www.interclip.com",
     "slug": "clip-connections",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1180,
-    "timeDay": 1180,
-    "timeWeek": 1180,
-    "timeMonth": 1180,
-    "timeYear": 1180,
+    "status": "up",
+    "uptime": "93.81%",
+    "uptimeDay": "93.81%",
+    "uptimeWeek": "93.81%",
+    "uptimeMonth": "93.81%",
+    "uptimeYear": "93.81%",
+    "time": 974,
+    "timeDay": 974,
+    "timeWeek": 974,
+    "timeMonth": 974,
+    "timeYear": 974,
     "dailyMinutesDown": {
-      "2022-02-06": 0
+      "2022-02-06": 31
     }
   },
   {
@@ -128,7 +128,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-06": 446
+      "2022-02-06": 477
     }
   }
 ]
