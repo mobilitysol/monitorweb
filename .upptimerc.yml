@@ -25,7 +25,7 @@ status-website:
   baseUrl: /monitorweb
   logoUrl: https://www.mobilitysol.com/firmas/logo_simple.png
   name: Monitor Web Mobility
-  introTitle: "**Upptime** is the open-source uptime monitor used by **Mobility Solutions** and status page, powered entirely by GitHub."
+  introTitle: "**Upptime** es el Monitor de estado open-source utilizado por **Mobility Solutions**."
   introMessage: Esta pagina de estado utiliza **real-time** data desde  [GitHub repository](https://github.com/upptime/upptime). [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Mobility Solutions
