@@ -9,13 +9,13 @@ sites:
       url: https://mobilitysol.com:30443
     - name: Mobility Solutions Web
       url: https://mobilitysol.com
-    - name: Nextcloud Uruguay
+    - name: Nextcloud Clip Uruguay
       url: https://clip.interclip.com/nextcloud
     - name: Zulip Uruguay
       url: https://zulip.mobilitysol.com:2443/
     - name: Clip Connections Web
       url: https://www.interclip.com
-    - name: Registro de visitas Clip
+    - name: Registro de visitas Clip Uruguay
       url: http://clip.interclip.com:8123
     - name: PizzaPiedra Web
       url: https://pizzapiedra.com.uy
