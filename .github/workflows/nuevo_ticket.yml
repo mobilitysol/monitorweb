@@ -20,7 +20,7 @@ jobs:
 
     # Unico paso (que pobreza)
     steps:
-      - uses: naiw1023/notify-telegram@v0.0.2
+      - uses: naiw1023/notify-telegram@v0.0.5
         if: always()
         with:
           chat: ${{ secrets.chat }} # user id or channel name secret
