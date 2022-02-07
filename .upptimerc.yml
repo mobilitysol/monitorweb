@@ -22,7 +22,7 @@ sites:
     - name: RequetePizza Web
       url: https://requetepizza.com
     - name: PizzaRiing Web
-      url: https://pizzariing.com
+      url: https://pizzariing.com.uy
     - name: PizzaTime Web
       url: https://pizzatime.uy
       
