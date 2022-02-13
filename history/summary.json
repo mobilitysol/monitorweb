@@ -42,19 +42,19 @@
     "url": "https://mobilitysol.com",
     "icon": "https://favicons.githubusercontent.com/mobilitysol.com",
     "slug": "mobility-solutions-web",
-    "status": "up",
-    "uptime": "99.80%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
+    "status": "down",
+    "uptime": "99.77%",
+    "uptimeDay": "98.73%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 2968,
     "timeDay": 6823,
     "timeWeek": 2968,
     "timeMonth": 2968,
     "timeYear": 2968,
     "dailyMinutesDown": {
-      "2022-02-13": 16
+      "2022-02-13": 19
     }
   },
   {
@@ -98,18 +98,20 @@
     "url": "https://www.interclip.com",
     "icon": "https://favicons.githubusercontent.com/www.interclip.com",
     "slug": "clip-connections-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 1147,
     "timeDay": 1206,
     "timeWeek": 1147,
     "timeMonth": 1147,
     "timeYear": 1147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 2
+    }
   },
   {
     "name": "Registro de visitas Clip Uruguay",
@@ -134,63 +136,69 @@
     "url": "https://pizzapiedra.com.uy",
     "icon": "https://favicons.githubusercontent.com/pizzapiedra.com.uy",
     "slug": "pizza-piedra-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1172,
     "timeDay": 1232,
     "timeWeek": 1172,
     "timeMonth": 1172,
     "timeYear": 1172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 2
+    }
   },
   {
     "name": "RequetePizza Web",
     "url": "https://requetepizza.com",
     "icon": "https://favicons.githubusercontent.com/requetepizza.com",
     "slug": "requete-pizza-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 669,
     "timeDay": 742,
     "timeWeek": 669,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 1
+    }
   },
   {
     "name": "PizzaRiing Web",
     "url": "https://pizzariing.uy",
     "icon": "https://favicons.githubusercontent.com/pizzariing.uy",
     "slug": "pizza-riing-web",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 911,
     "timeDay": 992,
     "timeWeek": 911,
     "timeMonth": 911,
     "timeYear": 911,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 1
+    }
   },
   {
     "name": "PizzaTime Web",
     "url": "https://pizzatime.uy",
     "icon": "https://favicons.githubusercontent.com/pizzatime.uy",
     "slug": "pizza-time-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -199,6 +207,8 @@
     "timeWeek": 853,
     "timeMonth": 853,
     "timeYear": 853,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-13": 0
+    }
   }
 ]
