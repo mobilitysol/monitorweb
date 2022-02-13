@@ -42,19 +42,19 @@
     "url": "https://mobilitysol.com",
     "icon": "https://favicons.githubusercontent.com/mobilitysol.com",
     "slug": "mobility-solutions-web",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "96.22%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.31%",
-    "uptimeYear": "99.31%",
+    "status": "down",
+    "uptime": "99.30%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.30%",
+    "uptimeMonth": "99.30%",
+    "uptimeYear": "99.30%",
     "time": 2830,
     "timeDay": 4940,
     "timeWeek": 2830,
     "timeMonth": 2830,
     "timeYear": 2830,
     "dailyMinutesDown": {
-      "2022-02-13": 55
+      "2022-02-13": 56
     }
   },
   {
