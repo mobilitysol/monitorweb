@@ -1,7 +1,7 @@
 url: https://www.interclip.com
-status: up
-code: 200
-responseTime: 730
-lastUpdated: 2023-02-26T23:19:08.515Z
+status: down
+code: 502
+responseTime: 4838
+lastUpdated: 2023-02-27T14:41:21.644Z
 startTime: Mon Feb 07 2022 19:30:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
