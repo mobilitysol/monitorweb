@@ -25,6 +25,8 @@ sites:
       url: https://pizzariing.uy
     - name: PizzaTime Web
       url: https://pizzatime.uy
+    - name: Pan y Pizza
+      url: https://panypizza.uy
       
 
 status-website:
