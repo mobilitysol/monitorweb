@@ -77,9 +77,9 @@
     "slug": "mobility-solutions-web",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.35%",
     "time": 3632,
     "timeDay": 2767,
@@ -87,7 +87,6 @@
     "timeMonth": 3846,
     "timeYear": 3541,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-19": 18,
       "2023-04-02": 473,
@@ -131,8 +130,7 @@
       "2022-05-08": 65,
       "2022-05-06": 21,
       "2022-05-01": 58,
-      "2022-04-26": 25,
-      "2022-04-24": 73
+      "2022-04-26": 25
     }
   },
   {
@@ -142,17 +140,16 @@
     "slug": "nextcloud-clip-uruguay",
     "status": "up",
     "uptime": "98.67%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.69%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.70%",
     "time": 1381,
     "timeDay": 1354,
     "timeWeek": 1389,
     "timeMonth": 1409,
     "timeYear": 1336,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-09": 17,
       "2023-04-02": 27,
@@ -180,9 +177,9 @@
     "slug": "zulip-uruguay",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.36%",
     "time": 995,
     "timeDay": 948,
@@ -190,7 +187,6 @@
     "timeMonth": 940,
     "timeYear": 991,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-02": 411,
       "2023-03-10": 15,
@@ -217,10 +213,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interclip.com.ico",
     "slug": "clip-connections-web",
     "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.76%",
+    "uptime": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "99.31%",
     "time": 1118,
     "timeDay": 892,
@@ -228,7 +224,6 @@
     "timeMonth": 1119,
     "timeYear": 1055,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-08": 25,
       "2023-04-02": 453,
@@ -272,8 +267,7 @@
       "2022-05-15": 66,
       "2022-05-08": 65,
       "2022-05-01": 57,
-      "2022-04-26": 24,
-      "2022-04-24": 73
+      "2022-04-26": 24
     }
   },
   {
@@ -282,10 +276,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "registro-de-visitas-clip-uruguay",
     "status": "up",
-    "uptime": "60.83%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "uptime": "60.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "52.77%",
     "time": 774,
     "timeDay": 1177,
@@ -293,7 +287,6 @@
     "timeMonth": 1167,
     "timeYear": 750,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-03-10": 15,
       "2023-02-27": 911,
@@ -481,17 +474,16 @@
     "slug": "pizza-piedra-web",
     "status": "up",
     "uptime": "99.29%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.46%",
     "time": 1119,
     "timeDay": 791,
     "timeWeek": 874,
     "timeMonth": 933,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-02": 452,
       "2023-03-26": 18,
@@ -525,8 +517,7 @@
       "2022-05-15": 44,
       "2022-05-08": 64,
       "2022-05-01": 57,
-      "2022-04-26": 24,
-      "2022-04-24": 72
+      "2022-04-26": 24
     }
   },
   {
@@ -536,9 +527,9 @@
     "slug": "requete-pizza-web",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "98.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "98.90%",
     "uptimeYear": "99.56%",
     "time": 692,
     "timeDay": 543,
@@ -546,7 +537,6 @@
     "timeMonth": 718,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-02": 442,
       "2023-03-26": 18,
@@ -575,8 +565,7 @@
       "2022-07-30": 25,
       "2022-05-15": 44,
       "2022-05-08": 64,
-      "2022-05-01": 56,
-      "2022-04-24": 72
+      "2022-05-01": 56
     }
   },
   {
@@ -586,9 +575,9 @@
     "slug": "pizza-riing-web",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "98.87%",
     "uptimeYear": "99.54%",
     "time": 821,
     "timeDay": 614,
@@ -596,7 +585,6 @@
     "timeMonth": 827,
     "timeYear": 762,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-19": 17,
       "2023-04-02": 441,
@@ -625,8 +613,7 @@
       "2022-07-30": 100,
       "2022-05-15": 42,
       "2022-05-08": 63,
-      "2022-05-01": 56,
-      "2022-04-24": 71
+      "2022-05-01": 56
     }
   },
   {
@@ -636,9 +623,9 @@
     "slug": "pizza-time-web",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "98.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.52%",
     "time": 833,
     "timeDay": 716,
@@ -646,7 +633,6 @@
     "timeMonth": 919,
     "timeYear": 793,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-19": 17,
       "2023-04-08": 24,
@@ -674,8 +660,7 @@
       "2022-07-30": 295,
       "2022-05-15": 42,
       "2022-05-08": 63,
-      "2022-05-01": 55,
-      "2022-04-24": 55
+      "2022-05-01": 55
     }
   },
   {
@@ -684,18 +669,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/panypizza.uy.ico",
     "slug": "pan-y-pizza",
     "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "97.75%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.75%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "98.75%",
     "time": 1138,
     "timeDay": 603,
     "timeWeek": 730,
     "timeMonth": 1099,
     "timeYear": 1138,
     "dailyMinutesDown": {
-      "2023-04-23": 7,
       "2023-04-20": 20,
       "2023-04-19": 16,
       "2023-04-02": 423,
