@@ -11,9 +11,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.81%",
     "time": 714,
-    "timeDay": 620,
-    "timeWeek": 601,
-    "timeMonth": 671,
+    "timeDay": 549,
+    "timeWeek": 613,
+    "timeMonth": 667,
     "timeYear": 699,
     "dailyMinutesDown": {
       "2023-04-28": 25,
@@ -44,9 +44,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.82%",
     "time": 623,
-    "timeDay": 663,
-    "timeWeek": 605,
-    "timeMonth": 656,
+    "timeDay": 589,
+    "timeWeek": 627,
+    "timeMonth": 652,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2023-04-20": 20,
@@ -73,17 +73,16 @@
     "slug": "mobility-solutions-web",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.40%",
-    "time": 3639,
-    "timeDay": 3709,
-    "timeWeek": 2559,
-    "timeMonth": 3951,
+    "time": 3641,
+    "timeDay": 4164,
+    "timeWeek": 2779,
+    "timeMonth": 3955,
     "timeYear": 3607,
     "dailyMinutesDown": {
-      "2023-05-14": 6,
       "2023-04-20": 20,
       "2023-04-19": 18,
       "2023-04-02": 473,
@@ -122,8 +121,7 @@
       "2022-08-21": 59,
       "2022-08-15": 23,
       "2022-08-01": 21,
-      "2022-06-26": 21,
-      "2022-05-15": 112
+      "2022-06-26": 21
     }
   },
   {
@@ -138,10 +136,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.70%",
     "time": 1370,
-    "timeDay": 1431,
-    "timeWeek": 1162,
-    "timeMonth": 1239,
-    "timeYear": 1313,
+    "timeDay": 1403,
+    "timeWeek": 1242,
+    "timeMonth": 1238,
+    "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-04-20": 20,
       "2023-04-09": 17,
@@ -158,8 +156,7 @@
       "2022-09-20": 29,
       "2022-07-30": 371,
       "2022-06-24": 494,
-      "2022-06-20": 46,
-      "2022-05-15": 26
+      "2022-06-20": 46
     }
   },
   {
@@ -174,9 +171,9 @@
     "uptimeMonth": "97.67%",
     "uptimeYear": "99.17%",
     "time": 990,
-    "timeDay": 849,
-    "timeWeek": 850,
-    "timeMonth": 920,
+    "timeDay": 781,
+    "timeWeek": 861,
+    "timeMonth": 916,
     "timeYear": 986,
     "dailyMinutesDown": {
       "2023-04-30": 1002,
@@ -205,18 +202,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interclip.com.ico",
     "slug": "clip-connections-web",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
+    "uptime": "99.37%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.35%",
-    "time": 1068,
-    "timeDay": 844,
-    "timeWeek": 882,
-    "timeMonth": 1055,
-    "timeYear": 1059,
+    "time": 1060,
+    "timeDay": 775,
+    "timeWeek": 914,
+    "timeMonth": 1052,
+    "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-05-14": 6,
       "2023-04-20": 20,
       "2023-04-08": 25,
       "2023-04-02": 453,
@@ -256,8 +252,7 @@
       "2022-08-01": 20,
       "2022-07-30": 371,
       "2022-07-03": 17,
-      "2022-06-26": 20,
-      "2022-05-15": 66
+      "2022-06-26": 20
     }
   },
   {
@@ -266,15 +261,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "registro-de-visitas-clip-uruguay",
     "status": "up",
-    "uptime": "62.56%",
+    "uptime": "62.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "52.78%",
-    "time": 790,
-    "timeDay": 1141,
-    "timeWeek": 1031,
-    "timeMonth": 1109,
+    "time": 791,
+    "timeDay": 1058,
+    "timeWeek": 1080,
+    "timeMonth": 1104,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2023-04-20": 20,
@@ -467,11 +462,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.50%",
-    "time": 1114,
-    "timeDay": 1049,
-    "timeWeek": 832,
-    "timeMonth": 939,
-    "timeYear": 1032,
+    "time": 1113,
+    "timeDay": 594,
+    "timeWeek": 835,
+    "timeMonth": 936,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2023-04-20": 20,
       "2023-04-02": 452,
@@ -502,8 +497,7 @@
       "2022-08-21": 58,
       "2022-08-01": 20,
       "2022-07-30": 371,
-      "2022-07-03": 16,
-      "2022-05-15": 44
+      "2022-07-03": 16
     }
   },
   {
@@ -518,9 +512,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.59%",
     "time": 685,
-    "timeDay": 513,
-    "timeWeek": 503,
-    "timeMonth": 552,
+    "timeDay": 434,
+    "timeWeek": 516,
+    "timeMonth": 548,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2023-04-20": 20,
@@ -548,8 +542,7 @@
       "2022-09-04": 60,
       "2022-08-28": 34,
       "2022-08-21": 57,
-      "2022-07-30": 25,
-      "2022-05-15": 44
+      "2022-07-30": 25
     }
   },
   {
@@ -564,10 +557,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.58%",
     "time": 811,
-    "timeDay": 553,
-    "timeWeek": 547,
-    "timeMonth": 645,
-    "timeYear": 750,
+    "timeDay": 508,
+    "timeWeek": 563,
+    "timeMonth": 642,
+    "timeYear": 748,
     "dailyMinutesDown": {
       "2023-04-20": 20,
       "2023-04-19": 17,
@@ -594,8 +587,7 @@
       "2022-09-04": 60,
       "2022-08-28": 34,
       "2022-08-21": 57,
-      "2022-07-30": 100,
-      "2022-05-15": 42
+      "2022-07-30": 100
     }
   },
   {
@@ -610,9 +602,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.55%",
     "time": 825,
-    "timeDay": 572,
-    "timeWeek": 580,
-    "timeMonth": 674,
+    "timeDay": 520,
+    "timeWeek": 579,
+    "timeMonth": 670,
     "timeYear": 752,
     "dailyMinutesDown": {
       "2023-04-20": 20,
@@ -639,8 +631,7 @@
       "2022-09-04": 59,
       "2022-08-28": 33,
       "2022-08-21": 56,
-      "2022-07-30": 295,
-      "2022-05-15": 42
+      "2022-07-30": 295
     }
   },
   {
@@ -649,16 +640,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/panypizza.uy.ico",
     "slug": "pan-y-pizza",
     "status": "up",
-    "uptime": "99.09%",
+    "uptime": "99.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.09%",
-    "time": 1027,
-    "timeDay": 551,
-    "timeWeek": 597,
-    "timeMonth": 664,
-    "timeYear": 1027,
+    "uptimeYear": "99.10%",
+    "time": 1022,
+    "timeDay": 497,
+    "timeWeek": 620,
+    "timeMonth": 660,
+    "timeYear": 1022,
     "dailyMinutesDown": {
       "2023-04-20": 20,
       "2023-04-19": 16,
