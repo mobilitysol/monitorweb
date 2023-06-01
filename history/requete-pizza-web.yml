@@ -1,7 +1,7 @@
 url: https://requetepizza.com
-status: up
-code: 200
-responseTime: 620
-lastUpdated: 2023-06-01T19:46:23.628Z
+status: down
+code: 403
+responseTime: 408
+lastUpdated: 2023-06-01T20:14:33.749Z
 startTime: Mon Feb 07 2022 19:30:40 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
