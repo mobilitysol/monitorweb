@@ -1,7 +1,7 @@
 url: https://mobilitysol.com
-status: up
-code: 200
-responseTime: 1217
-lastUpdated: 2023-07-10T23:18:46.156Z
+status: down
+code: 403
+responseTime: 929
+lastUpdated: 2023-07-11T11:05:42.039Z
 startTime: Mon Feb 07 2022 19:30:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
