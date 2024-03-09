@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.57%",
     "time": 715,
-    "timeDay": 683,
-    "timeWeek": 614,
-    "timeMonth": 561,
+    "timeDay": 447,
+    "timeWeek": 577,
+    "timeMonth": 560,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -32,8 +32,7 @@
       "2023-07-11": 452,
       "2023-04-28": 25,
       "2023-04-20": 20,
-      "2023-04-02": 412,
-      "2023-03-10": 15
+      "2023-04-02": 412
     }
   },
   {
@@ -48,10 +47,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "97.09%",
     "time": 687,
-    "timeDay": 690,
-    "timeWeek": 617,
+    "timeDay": 434,
+    "timeWeek": 579,
     "timeMonth": 550,
-    "timeYear": 695,
+    "timeYear": 694,
     "dailyMinutesDown": {
       "2024-02-13": 17,
       "2024-01-09": 15,
@@ -73,8 +72,7 @@
       "2023-06-27": 257,
       "2023-04-20": 20,
       "2023-04-03": 716,
-      "2023-04-02": 947,
-      "2023-03-10": 15
+      "2023-04-02": 947
     }
   },
   {
@@ -88,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.27%",
-    "time": 2683,
-    "timeDay": 1383,
-    "timeWeek": 1275,
-    "timeMonth": 1124,
-    "timeYear": 2514,
+    "time": 2681,
+    "timeDay": 902,
+    "timeWeek": 1206,
+    "timeMonth": 1123,
+    "timeYear": 2509,
     "dailyMinutesDown": {
       "2024-02-13": 17,
       "2024-01-09": 16,
@@ -124,8 +122,7 @@
       "2023-04-19": 18,
       "2023-04-02": 473,
       "2023-03-26": 48,
-      "2023-03-16": 17,
-      "2023-03-10": 15
+      "2023-03-16": 17
     }
   },
   {
@@ -140,9 +137,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.60%",
     "time": 1297,
-    "timeDay": 1412,
-    "timeWeek": 1281,
-    "timeMonth": 1158,
+    "timeDay": 1073,
+    "timeWeek": 1267,
+    "timeMonth": 1166,
     "timeYear": 1308,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -158,8 +155,7 @@
       "2023-05-29": 534,
       "2023-04-20": 20,
       "2023-04-09": 17,
-      "2023-04-02": 27,
-      "2023-03-10": 15
+      "2023-04-02": 27
     }
   },
   {
@@ -173,10 +169,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "98.79%",
-    "time": 1038,
-    "timeDay": 913,
-    "timeWeek": 886,
-    "timeMonth": 816,
+    "time": 1037,
+    "timeDay": 783,
+    "timeWeek": 864,
+    "timeMonth": 819,
     "timeYear": 1018,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -198,8 +194,7 @@
       "2023-05-29": 514,
       "2023-04-30": 1002,
       "2023-04-20": 20,
-      "2023-04-02": 411,
-      "2023-03-10": 15
+      "2023-04-02": 411
     }
   },
   {
@@ -214,9 +209,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.27%",
     "time": 1258,
-    "timeDay": 1256,
-    "timeWeek": 1089,
-    "timeMonth": 967,
+    "timeDay": 809,
+    "timeWeek": 1035,
+    "timeMonth": 968,
     "timeYear": 1281,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -247,8 +242,7 @@
       "2023-04-08": 25,
       "2023-04-02": 453,
       "2023-03-26": 40,
-      "2023-03-19": 16,
-      "2023-03-10": 15
+      "2023-03-19": 16
     }
   },
   {
@@ -257,14 +251,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "registro-de-visitas-clip-uruguay",
     "status": "up",
-    "uptime": "77.09%",
+    "uptime": "77.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.69%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.56%",
-    "time": 1004,
-    "timeDay": 1143,
-    "timeWeek": 1154,
+    "time": 1005,
+    "timeDay": 903,
+    "timeWeek": 1126,
     "timeMonth": 1083,
     "timeYear": 1134,
     "dailyMinutesDown": {
@@ -280,8 +274,7 @@
       "2023-08-16": 17,
       "2023-07-26": 54,
       "2023-05-29": 513,
-      "2023-04-20": 20,
-      "2023-03-10": 15
+      "2023-04-20": 20
     }
   },
   {
@@ -296,8 +289,8 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
     "time": 1158,
-    "timeDay": 1256,
-    "timeWeek": 1014,
+    "timeDay": 606,
+    "timeWeek": 847,
     "timeMonth": 827,
     "timeYear": 1150,
     "dailyMinutesDown": {
@@ -329,8 +322,7 @@
       "2023-05-27": 16,
       "2023-04-20": 20,
       "2023-04-02": 452,
-      "2023-03-26": 18,
-      "2023-03-10": 15
+      "2023-03-26": 18
     }
   },
   {
@@ -345,9 +337,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.18%",
     "time": 664,
-    "timeDay": 540,
-    "timeWeek": 495,
-    "timeMonth": 438,
+    "timeDay": 343,
+    "timeWeek": 464,
+    "timeMonth": 436,
     "timeYear": 661,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -378,8 +370,7 @@
       "2023-05-27": 16,
       "2023-04-20": 20,
       "2023-04-02": 442,
-      "2023-03-26": 18,
-      "2023-03-10": 15
+      "2023-03-26": 18
     }
   },
   {
@@ -394,9 +385,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.26%",
     "time": 800,
-    "timeDay": 573,
-    "timeWeek": 550,
-    "timeMonth": 484,
+    "timeDay": 381,
+    "timeWeek": 510,
+    "timeMonth": 483,
     "timeYear": 814,
     "dailyMinutesDown": {
       "2024-02-13": 17,
@@ -429,8 +420,7 @@
       "2023-04-20": 20,
       "2023-04-19": 17,
       "2023-04-02": 441,
-      "2023-03-26": 17,
-      "2023-03-10": 15
+      "2023-03-26": 17
     }
   },
   {
@@ -445,10 +435,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.29%",
     "time": 743,
-    "timeDay": 575,
-    "timeWeek": 556,
+    "timeDay": 402,
+    "timeWeek": 515,
     "timeMonth": 487,
-    "timeYear": 740,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2024-02-13": 17,
       "2024-01-09": 16,
@@ -478,8 +468,7 @@
       "2023-04-20": 20,
       "2023-04-19": 17,
       "2023-04-08": 24,
-      "2023-04-02": 441,
-      "2023-03-10": 15
+      "2023-04-02": 441
     }
   },
   {
@@ -493,11 +482,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 819,
-    "timeDay": 852,
-    "timeWeek": 793,
+    "time": 818,
+    "timeDay": 592,
+    "timeWeek": 752,
     "timeMonth": 729,
-    "timeYear": 819,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-02-13": 17,
       "2024-01-09": 16,
