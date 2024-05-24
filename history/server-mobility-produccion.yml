@@ -1,7 +1,7 @@
 url: https://mobilitysol.com:20443
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-24T15:59:13.255Z
+status: up
+code: 200
+responseTime: 474
+lastUpdated: 2024-05-24T16:16:42.217Z
 startTime: 2022-02-07T19:30:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
