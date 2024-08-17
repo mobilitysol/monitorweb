@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 665,
-    "timeDay": 754,
-    "timeWeek": 548,
+    "timeDay": 550,
+    "timeWeek": 563,
     "timeMonth": 546,
-    "timeYear": 650,
+    "timeYear": 649,
     "dailyMinutesDown": {
       "2024-05-24": 37,
       "2024-05-12": 17,
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.84%",
     "time": 648,
-    "timeDay": 676,
-    "timeWeek": 526,
-    "timeMonth": 537,
+    "timeDay": 538,
+    "timeWeek": 539,
+    "timeMonth": 538,
     "timeYear": 619,
     "dailyMinutesDown": {
       "2024-05-24": 36,
@@ -80,16 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "mobility-solutions-web",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 1718,
-    "timeDay": 1379,
-    "timeWeek": 1067,
-    "timeMonth": 1116,
-    "timeYear": 1566,
+    "timeDay": 1041,
+    "timeWeek": 1072,
+    "timeMonth": 1118,
+    "timeYear": 1564,
     "dailyMinutesDown": {
       "2024-05-24": 36,
       "2024-05-12": 17,
@@ -109,8 +109,7 @@
       "2023-09-03": 31,
       "2023-08-28": 16,
       "2023-08-27": 38,
-      "2023-08-20": 66,
-      "2023-08-18": 19
+      "2023-08-20": 66
     }
   },
   {
@@ -123,12 +122,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.41%",
+    "uptimeYear": "99.42%",
     "time": 1226,
-    "timeDay": 1217,
-    "timeWeek": 959,
-    "timeMonth": 998,
-    "timeYear": 1176,
+    "timeDay": 881,
+    "timeWeek": 960,
+    "timeMonth": 1000,
+    "timeYear": 1174,
     "dailyMinutesDown": {
       "2024-06-11": 31,
       "2024-05-27": 106,
@@ -156,16 +155,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zulip.mobilitysol.com.ico",
     "slug": "zulip-uruguay",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.11%",
     "time": 960,
-    "timeDay": 923,
+    "timeDay": 771,
     "timeWeek": 798,
-    "timeMonth": 808,
-    "timeYear": 936,
+    "timeMonth": 810,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2024-08-07": 451,
       "2024-07-14": 248,
@@ -202,9 +201,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1225,
-    "timeDay": 1205,
-    "timeWeek": 925,
-    "timeMonth": 947,
+    "timeDay": 941,
+    "timeWeek": 946,
+    "timeMonth": 950,
     "timeYear": 1142,
     "dailyMinutesDown": {
       "2024-05-24": 36,
@@ -225,8 +224,7 @@
       "2023-09-03": 30,
       "2023-08-28": 16,
       "2023-08-27": 38,
-      "2023-08-20": 64,
-      "2023-08-18": 19
+      "2023-08-20": 64
     }
   },
   {
@@ -235,16 +233,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "registro-de-visitas-clip-uruguay",
     "status": "up",
-    "uptime": "81.01%",
+    "uptime": "81.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.47%",
-    "time": 1135,
-    "timeDay": 1015,
-    "timeWeek": 1028,
-    "timeMonth": 981,
-    "timeYear": 1133,
+    "uptimeYear": "99.48%",
+    "time": 1134,
+    "timeDay": 933,
+    "timeWeek": 959,
+    "timeMonth": 983,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2024-06-28": 767,
       "2024-06-27": 136,
@@ -277,9 +275,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 1110,
-    "timeDay": 2078,
-    "timeWeek": 897,
-    "timeMonth": 913,
+    "timeDay": 1001,
+    "timeWeek": 948,
+    "timeMonth": 925,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2024-05-24": 36,
@@ -301,8 +299,7 @@
       "2023-09-03": 30,
       "2023-08-28": 16,
       "2023-08-27": 38,
-      "2023-08-20": 64,
-      "2023-08-18": 18
+      "2023-08-20": 64
     }
   },
   {
@@ -317,9 +314,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 610,
-    "timeDay": 557,
-    "timeWeek": 400,
-    "timeMonth": 423,
+    "timeDay": 425,
+    "timeWeek": 406,
+    "timeMonth": 424,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2024-05-25": 15,
@@ -342,8 +339,7 @@
       "2023-09-03": 29,
       "2023-08-28": 16,
       "2023-08-27": 37,
-      "2023-08-20": 63,
-      "2023-08-18": 18
+      "2023-08-20": 63
     }
   },
   {
@@ -358,9 +354,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 735,
-    "timeDay": 647,
-    "timeWeek": 456,
-    "timeMonth": 467,
+    "timeDay": 475,
+    "timeWeek": 469,
+    "timeMonth": 469,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2024-05-25": 15,
@@ -383,8 +379,7 @@
       "2023-09-03": 29,
       "2023-08-28": 16,
       "2023-08-27": 37,
-      "2023-08-20": 76,
-      "2023-08-18": 17
+      "2023-08-20": 76
     }
   },
   {
@@ -398,10 +393,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 655,
-    "timeDay": 646,
-    "timeWeek": 454,
-    "timeMonth": 464,
+    "time": 654,
+    "timeDay": 457,
+    "timeWeek": 464,
+    "timeMonth": 465,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2024-05-25": 15,
@@ -423,8 +418,7 @@
       "2023-09-03": 28,
       "2023-08-28": 16,
       "2023-08-27": 36,
-      "2023-08-20": 68,
-      "2023-08-18": 17
+      "2023-08-20": 68
     }
   },
   {
@@ -438,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 784,
-    "timeDay": 711,
-    "timeWeek": 565,
-    "timeMonth": 718,
-    "timeYear": 784,
+    "time": 783,
+    "timeDay": 531,
+    "timeWeek": 575,
+    "timeMonth": 712,
+    "timeYear": 783,
     "dailyMinutesDown": {
       "2024-05-25": 15,
       "2024-05-24": 36,
