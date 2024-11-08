@@ -10,7 +10,7 @@ sites:
     - name: Mobility Solutions Web
       url: https://mobilitysol.com
     - name: Nextcloud Clip Uruguay
-      url: https://clip.interclip.com/nextcloud
+      url: https://clip.interclip.com/
     - name: Zulip Uruguay
       url: https://zulip.mobilitysol.com:2443/
     - name: Clip Connections Web
