@@ -10,9 +10,9 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.32%",
-    "time": 598,
-    "timeDay": 1030,
-    "timeWeek": 628,
+    "time": 589,
+    "timeDay": 611,
+    "timeWeek": 627,
     "timeMonth": 574,
     "timeYear": 562,
     "dailyMinutesDown": {
@@ -35,8 +35,7 @@
       "2024-04-29": 16,
       "2024-04-17": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 15
+      "2024-02-13": 17
     }
   },
   {
@@ -50,10 +49,10 @@
     "uptimeWeek": "99.93%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.04%",
-    "time": 619,
-    "timeDay": 455,
-    "timeWeek": 487,
-    "timeMonth": 524,
+    "time": 618,
+    "timeDay": 543,
+    "timeWeek": 484,
+    "timeMonth": 523,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-01-07": 7,
@@ -75,8 +74,7 @@
       "2024-04-29": 16,
       "2024-04-17": 15,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 15
+      "2024-02-13": 17
     }
   },
   {
@@ -85,18 +83,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "mobility-solutions-web",
     "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptime": "99.33%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.37%",
-    "time": 1206,
-    "timeDay": 966,
-    "timeWeek": 1017,
-    "timeMonth": 1087,
-    "timeYear": 1160,
+    "time": 1193,
+    "timeDay": 1147,
+    "timeWeek": 1012,
+    "timeMonth": 1085,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 16,
       "2024-11-22": 17,
@@ -113,8 +110,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -124,17 +120,16 @@
     "slug": "nextcloud-clip-uruguay",
     "status": "up",
     "uptime": "98.32%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.68%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.70%",
     "uptimeYear": "97.09%",
     "time": 1176,
-    "timeDay": 1198,
-    "timeWeek": 1265,
-    "timeMonth": 1510,
+    "timeDay": 1318,
+    "timeWeek": 1264,
+    "timeMonth": 1500,
     "timeYear": 1164,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-23": 101,
       "2024-12-09": 16,
@@ -165,8 +160,7 @@
       "2024-04-26": 53,
       "2024-03-13": 745,
       "2024-03-12": 534,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -176,17 +170,16 @@
     "slug": "zulip-uruguay",
     "status": "up",
     "uptime": "99.10%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "98.86%",
     "time": 824,
-    "timeDay": 773,
-    "timeWeek": 796,
-    "timeMonth": 818,
-    "timeYear": 815,
+    "timeDay": 813,
+    "timeWeek": 790,
+    "timeMonth": 816,
+    "timeYear": 816,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 16,
       "2024-10-24": 39,
@@ -209,8 +202,7 @@
       "2024-03-13": 15,
       "2024-02-13": 17,
       "2024-01-21": 939,
-      "2024-01-20": 437,
-      "2024-01-09": 16
+      "2024-01-20": 437
     }
   },
   {
@@ -220,17 +212,16 @@
     "slug": "clip-connections-web",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.38%",
-    "time": 999,
-    "timeDay": 812,
-    "timeWeek": 866,
+    "time": 1000,
+    "timeDay": 991,
+    "timeWeek": 869,
     "timeMonth": 933,
-    "timeYear": 963,
+    "timeYear": 964,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 16,
       "2024-11-14": 502,
@@ -246,8 +237,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -256,18 +246,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "registro-de-visitas-clip-uruguay",
     "status": "up",
-    "uptime": "83.58%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptime": "83.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.72%",
     "time": 1079,
-    "timeDay": 956,
-    "timeWeek": 926,
-    "timeMonth": 949,
-    "timeYear": 1073,
+    "timeDay": 931,
+    "timeWeek": 918,
+    "timeMonth": 946,
+    "timeYear": 1072,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-10-24": 38,
@@ -286,8 +275,7 @@
       "2024-03-13": 15,
       "2024-03-05": 132,
       "2024-02-13": 17,
-      "2024-01-18": 20,
-      "2024-01-09": 16
+      "2024-01-18": 20
     }
   },
   {
@@ -297,17 +285,16 @@
     "slug": "pizza-piedra-web",
     "status": "up",
     "uptime": "99.28%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.38%",
-    "time": 994,
-    "timeDay": 1144,
-    "timeWeek": 856,
-    "timeMonth": 974,
-    "timeYear": 966,
+    "time": 986,
+    "timeDay": 1463,
+    "timeWeek": 908,
+    "timeMonth": 944,
+    "timeYear": 967,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-11-14": 502,
@@ -323,8 +310,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -334,17 +320,16 @@
     "slug": "requete-pizza-web",
     "status": "up",
     "uptime": "99.36%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.37%",
-    "time": 489,
-    "timeDay": 399,
-    "timeWeek": 400,
-    "timeMonth": 427,
-    "timeYear": 445,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.38%",
+    "time": 488,
+    "timeDay": 472,
+    "timeWeek": 404,
+    "timeMonth": 428,
+    "timeYear": 446,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-11-14": 502,
@@ -361,8 +346,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -372,17 +356,16 @@
     "slug": "pizza-riing-web",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.38%",
     "time": 558,
-    "timeDay": 426,
-    "timeWeek": 464,
-    "timeMonth": 486,
-    "timeYear": 503,
+    "timeDay": 573,
+    "timeWeek": 476,
+    "timeMonth": 488,
+    "timeYear": 504,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-11-14": 502,
@@ -399,8 +382,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -410,17 +392,16 @@
     "slug": "pizza-time-web",
     "status": "up",
     "uptime": "99.39%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.37%",
-    "time": 518,
-    "timeDay": 410,
-    "timeWeek": 461,
+    "time": 517,
+    "timeDay": 520,
+    "timeWeek": 460,
     "timeMonth": 483,
-    "timeYear": 497,
+    "timeYear": 498,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-11-28": 17,
@@ -438,8 +419,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   },
   {
@@ -449,17 +429,16 @@
     "slug": "asian-food",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.38%",
     "time": 763,
-    "timeDay": 506,
-    "timeWeek": 541,
+    "timeDay": 580,
+    "timeWeek": 539,
     "timeMonth": 624,
     "timeYear": 739,
     "dailyMinutesDown": {
-      "2025-01-07": 7,
       "2024-12-26": 15,
       "2024-12-09": 17,
       "2024-11-14": 502,
@@ -476,8 +455,7 @@
       "2024-05-03": 23,
       "2024-04-29": 16,
       "2024-03-13": 15,
-      "2024-02-13": 17,
-      "2024-01-09": 16
+      "2024-02-13": 17
     }
   }
 ]
