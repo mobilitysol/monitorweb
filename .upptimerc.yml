@@ -18,15 +18,17 @@ sites:
     - name: Registro de visitas Clip Uruguay
       url: http://clip.interclip.com:8123/kimai2/public
     - name: PizzaPiedra Web
-      url: https://pizzapiedra.com.uy
-    - name: RequetePizza Web
-      url: https://requetepizza.com
+      url: https://pizzapiedra.com.uy/
+    - name: PastasBlanes Web
+      url: https://pastasblanes.deliverysol.com/
     - name: PizzaRiing Web
       url: https://pizzariing.uy
     - name: PizzaTime Web
       url: https://pizzatime.uy
     - name: Asian Food
       url: https://asianfood.com.uy
+    - name: Sabor y Pico
+      url: https://saborypico.uy/  
       
 
 status-website:
