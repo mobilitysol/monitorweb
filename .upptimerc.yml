@@ -17,8 +17,6 @@ sites:
       url: https://www.interclip.com
     - name: Registro de visitas Clip Uruguay
       url: http://clip.interclip.com:8123/kimai2/public
-    - name: PizzaPiedra Web
-      url: https://pizzapiedra.com.uy/
     - name: PastasBlanes Web
       url: https://pastasblanes.deliverysol.com/
     - name: PizzaRiing Web
