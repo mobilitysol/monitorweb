@@ -1,7 +1,7 @@
 url: http://clip.interclip.com:8123/kimai2/public
-status: up
-code: 200
-responseTime: 1011
-lastUpdated: 2025-10-09T19:48:14.819Z
+status: down
+code: 400
+responseTime: 326
+lastUpdated: 2025-10-09T20:09:55.526Z
 startTime: 2022-02-07T19:48:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
