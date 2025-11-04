@@ -1,7 +1,7 @@
 url: https://zulip.mobilitysol.com:2443/
-status: up
-code: 200
-responseTime: 1081
-lastUpdated: 2025-11-03T23:22:55.577Z
+status: down
+code: 502
+responseTime: 550
+lastUpdated: 2025-11-04T20:44:19.838Z
 startTime: 2022-02-06T00:21:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
