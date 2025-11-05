@@ -27,7 +27,9 @@ sites:
       url: https://asianfood.com.uy
     - name: Sabor y Pico
       url: https://saborypico.uy/  
-
+    - name: Metabase 35
+      url: https://mobilitysol.com:3443/embed/dashboard/
+      skipTls: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
