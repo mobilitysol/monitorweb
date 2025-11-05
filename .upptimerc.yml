@@ -27,16 +27,7 @@ sites:
       url: https://asianfood.com.uy
     - name: Sabor y Pico
       url: https://saborypico.uy/  
-    - name: Metabase 35
-      url: https://mobilitysol.com:3443/embed/dashboard/
-      headers:
-        - "User-Agent: Upptime/1.0"
-        - "Accept: */*"
-      skipTls: true
-      timeout: 30000
-      maxRedirects: 5
-      followRedirects: true
-      check: "status"
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
