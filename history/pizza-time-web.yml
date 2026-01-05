@@ -1,7 +1,7 @@
 url: https://pizzatime.uy
-status: up
-code: 200
-responseTime: 203
-lastUpdated: 2026-01-04T23:25:40.021Z
+status: down
+code: 502
+responseTime: 304
+lastUpdated: 2026-01-05T05:52:18.884Z
 startTime: 2022-02-07T19:30:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
