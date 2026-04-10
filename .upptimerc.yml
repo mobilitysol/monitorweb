@@ -7,6 +7,8 @@ sites:
       url: https://mobilitysol.com:20443
     - name: Server Mobility Testing
       url: https://mobilitysol.com:30443
+    - name: Server Wildfly 37
+      url: https://mobilitysol.com:38443
     - name: Mobility Solutions Web
       url: https://mobilitysol.com
     - name: Nextcloud Clip Uruguay
@@ -23,10 +25,11 @@ sites:
       url: https://pizzariing.uy
     - name: PizzaTime Web
       url: https://pizzatime.uy
-    - name: Asian Food
-      url: https://asianfood.com.uy
     - name: Sabor y Pico
       url: https://saborypico.uy/  
+    - name: Metabase Canada
+      url: https://ca.interclip.com:3443/
+      
 
 
 
