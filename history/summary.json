@@ -240,7 +240,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.interclip.com.ico",
     "slug": "clip-connections-web",
     "status": "up",
-    "uptime": "99.23%",
+    "uptime": "99.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -436,7 +436,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/saborypico.uy.ico",
     "slug": "sabor-y-pico",
     "status": "up",
-    "uptime": "98.73%",
+    "uptime": "98.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -473,10 +473,10 @@
     "url": "https://ca.interclip.com:3443/",
     "icon": "https://icons.duckduckgo.com/ip3/ca.interclip.com.ico",
     "slug": "metabase-canada",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 302,
@@ -484,6 +484,8 @@
     "timeWeek": 304,
     "timeMonth": 302,
     "timeYear": 302,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-30": 1
+    }
   }
 ]
