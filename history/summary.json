@@ -4,17 +4,17 @@
     "url": "https://mobilitysol.com:20443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-produccion",
-    "status": "down",
+    "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.80%",
     "time": 440,
-    "timeDay": 691,
-    "timeWeek": 750,
-    "timeMonth": 754,
-    "timeYear": 381,
+    "timeDay": 808,
+    "timeWeek": 772,
+    "timeMonth": 760,
+    "timeYear": 382,
     "dailyMinutesDown": {
       "2025-06-03": 70,
       "2025-07-04": 29,
@@ -28,7 +28,7 @@
       "2026-03-11": 58,
       "2026-03-15": 18,
       "2026-03-18": 52,
-      "2026-05-27": 1
+      "2026-05-27": 118
     }
   },
   {
@@ -36,17 +36,17 @@
     "url": "https://mobilitysol.com:30443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-testing",
-    "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.34%",
-    "time": 385,
-    "timeDay": 705,
-    "timeWeek": 737,
-    "timeMonth": 735,
-    "timeYear": 338,
+    "status": "up",
+    "uptime": "97.53%",
+    "uptimeDay": "91.81%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "94.32%",
+    "time": 386,
+    "timeDay": 779,
+    "timeWeek": 751,
+    "timeMonth": 739,
+    "timeYear": 340,
     "dailyMinutesDown": {
       "2025-06-06": 104,
       "2025-07-04": 29,
@@ -79,7 +79,7 @@
       "2026-02-26": 451,
       "2026-03-18": 52,
       "2026-04-08": 61,
-      "2026-05-27": 1
+      "2026-05-27": 118
     }
   },
   {
@@ -88,18 +88,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-wildfly-37",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.83%",
+    "uptimeDay": "91.79%",
+    "uptimeWeek": "98.83%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.83%",
     "time": 743,
     "timeDay": 620,
     "timeWeek": 709,
     "timeMonth": 726,
     "timeYear": 743,
     "dailyMinutesDown": {
-      "2026-05-27": 0
+      "2026-05-27": 118
     }
   },
   {
