@@ -4,10 +4,10 @@
     "url": "https://mobilitysol.com:20443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 440,
@@ -27,7 +27,8 @@
       "2026-03-10": 240,
       "2026-03-11": 58,
       "2026-03-15": 18,
-      "2026-03-18": 52
+      "2026-03-18": 52,
+      "2026-05-27": 1
     }
   },
   {
@@ -35,13 +36,13 @@
     "url": "https://mobilitysol.com:30443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-testing",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.35%",
-    "time": 386,
+    "uptimeYear": "94.34%",
+    "time": 385,
     "timeDay": 705,
     "timeWeek": 737,
     "timeMonth": 735,
@@ -77,7 +78,8 @@
       "2026-02-27": 1440,
       "2026-02-26": 451,
       "2026-03-18": 52,
-      "2026-04-08": 61
+      "2026-04-08": 61,
+      "2026-05-27": 1
     }
   },
   {
@@ -85,9 +87,9 @@
     "url": "https://mobilitysol.com:38443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-wildfly-37",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -96,7 +98,9 @@
     "timeWeek": 709,
     "timeMonth": 726,
     "timeYear": 743,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-05-27": 0
+    }
   },
   {
     "name": "Mobility Solutions Web",
