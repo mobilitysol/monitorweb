@@ -33,11 +33,11 @@
     "url": "https://mobilitysol.com:30443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-testing",
-    "status": "up",
-    "uptime": "97.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "down",
+    "uptime": "97.67%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "94.34%",
     "time": 428,
     "timeDay": 894,
@@ -73,7 +73,8 @@
       "2026-03-18": 52,
       "2026-04-08": 61,
       "2026-05-27": 118,
-      "2026-06-30": 109
+      "2026-06-30": 109,
+      "2026-08-29": 5
     }
   },
   {
@@ -81,11 +82,11 @@
     "url": "https://mobilitysol.com:38443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-wildfly-37",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.84%",
     "time": 745,
     "timeDay": 889,
@@ -94,7 +95,8 @@
     "timeYear": 745,
     "dailyMinutesDown": {
       "2026-05-27": 219,
-      "2026-06-30": 108
+      "2026-06-30": 108,
+      "2026-08-29": 5
     }
   },
   {
@@ -188,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/zulip.mobilitysol.com.ico",
     "slug": "zulip-uruguay",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "88.81%",
-    "uptimeWeek": "98.40%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.29%",
+    "uptime": "98.92%",
+    "uptimeDay": "45.65%",
+    "uptimeWeek": "92.24%",
+    "uptimeMonth": "98.21%",
+    "uptimeYear": "99.17%",
     "time": 991,
     "timeDay": 0,
     "timeWeek": 1389,
@@ -219,7 +221,7 @@
       "2026-04-10": 163,
       "2026-04-17": 34,
       "2026-07-09": 106,
-      "2026-08-29": 161
+      "2026-08-29": 783
     }
   },
   {
@@ -405,7 +407,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/saborypico.uy.ico",
     "slug": "sabor-y-pico",
     "status": "up",
-    "uptime": "99.02%",
+    "uptime": "99.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
