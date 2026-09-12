@@ -193,9 +193,9 @@
     "url": "https://zulip.mobilitysol.com:2443/",
     "icon": "https://icons.duckduckgo.com/ip3/zulip.mobilitysol.com.ico",
     "slug": "zulip-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "91.36%",
     "uptimeYear": "98.60%",
@@ -227,7 +227,8 @@
       "2026-07-09": 106,
       "2026-08-31": 1154,
       "2026-08-30": 1440,
-      "2026-08-29": 1190
+      "2026-08-29": 1190,
+      "2026-09-12": 0
     }
   },
   {
