@@ -191,9 +191,9 @@
     "url": "https://zulip.mobilitysol.com:2443/",
     "icon": "https://icons.duckduckgo.com/ip3/zulip.mobilitysol.com.ico",
     "slug": "zulip-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "83.99%",
     "uptimeYear": "98.02%",
@@ -226,7 +226,8 @@
       "2026-08-29": 1190,
       "2026-09-14": 804,
       "2026-09-13": 1440,
-      "2026-09-12": 987
+      "2026-09-12": 987,
+      "2026-09-26": 0
     }
   },
   {
@@ -414,7 +415,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/saborypico.uy.ico",
     "slug": "sabor-y-pico",
     "status": "up",
-    "uptime": "99.01%",
+    "uptime": "99.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.93%",
