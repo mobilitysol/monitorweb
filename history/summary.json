@@ -4,13 +4,13 @@
     "url": "https://mobilitysol.com:20443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-produccion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.83%",
-    "time": 539,
+    "uptimeDay": "96.59%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.82%",
+    "time": 540,
     "timeDay": 799,
     "timeWeek": 760,
     "timeMonth": 759,
@@ -25,7 +25,8 @@
       "2026-03-15": 18,
       "2026-03-18": 52,
       "2026-05-27": 118,
-      "2026-07-28": 53
+      "2026-07-28": 53,
+      "2026-11-14": 49
     }
   },
   {
@@ -33,12 +34,12 @@
     "url": "https://mobilitysol.com:30443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-mobility-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "97.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "94.17%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "94.16%",
     "time": 508,
     "timeDay": 809,
     "timeWeek": 746,
@@ -74,7 +75,8 @@
       "2026-09-01": 724,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
-      "2026-08-29": 413
+      "2026-08-29": 413,
+      "2026-11-14": 44
     }
   },
   {
@@ -82,12 +84,12 @@
     "url": "https://mobilitysol.com:38443",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "server-wildfly-37",
-    "status": "up",
-    "uptime": "98.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.61%",
+    "status": "down",
+    "uptime": "98.60%",
+    "uptimeDay": "97.25%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "98.60%",
     "time": 747,
     "timeDay": 743,
     "timeWeek": 742,
@@ -99,7 +101,8 @@
       "2026-09-01": 724,
       "2026-08-31": 1440,
       "2026-08-30": 1440,
-      "2026-08-29": 413
+      "2026-08-29": 413,
+      "2026-11-14": 40
     }
   },
   {
@@ -107,13 +110,13 @@
     "url": "https://mobilitysol.com",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "mobility-solutions-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "97.01%",
-    "time": 1038,
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "97.00%",
+    "time": 1039,
     "timeDay": 1211,
     "timeWeek": 1158,
     "timeMonth": 1264,
@@ -139,7 +142,8 @@
       "2026-03-11": 58,
       "2026-03-15": 18,
       "2026-03-18": 51,
-      "2026-09-03": 515
+      "2026-09-03": 515,
+      "2026-11-14": 35
     }
   },
   {
@@ -147,17 +151,17 @@
     "url": "https://clip.interclip.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/clip.interclip.com.ico",
     "slug": "nextcloud-clip-uruguay",
-    "status": "up",
-    "uptime": "98.03%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "95.60%",
-    "time": 1727,
-    "timeDay": 1111,
-    "timeWeek": 1199,
-    "timeMonth": 1755,
-    "timeYear": 1773,
+    "status": "down",
+    "uptime": "98.02%",
+    "uptimeDay": "97.60%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "95.59%",
+    "time": 1724,
+    "timeDay": 570,
+    "timeWeek": 1053,
+    "timeMonth": 1706,
+    "timeYear": 1768,
     "dailyMinutesDown": {
       "2025-11-24": 19,
       "2025-11-25": 84,
@@ -182,7 +186,8 @@
       "2026-03-09": 1440,
       "2026-05-30": 1417,
       "2026-05-29": 271,
-      "2026-11-05": 76
+      "2026-11-05": 76,
+      "2026-11-14": 35
     }
   },
   {
@@ -190,12 +195,12 @@
     "url": "https://zulip.mobilitysol.com:2443/",
     "icon": "https://icons.duckduckgo.com/ip3/zulip.mobilitysol.com.ico",
     "slug": "zulip-uruguay",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.45%",
-    "uptimeYear": "96.10%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "92.38%",
+    "uptimeYear": "96.09%",
     "time": 1056,
     "timeDay": 1356,
     "timeWeek": 1287,
@@ -231,7 +236,8 @@
       "2026-10-10": 826,
       "2026-10-26": 787,
       "2026-10-25": 1440,
-      "2026-10-24": 1079
+      "2026-10-24": 1079,
+      "2026-11-14": 30
     }
   },
   {
@@ -239,13 +245,13 @@
     "url": "https://www.interclip.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.interclip.com.ico",
     "slug": "clip-connections-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.49%",
-    "time": 921,
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "98.48%",
+    "time": 857,
     "timeDay": 1396,
     "timeWeek": 1330,
     "timeMonth": 1329,
@@ -269,7 +275,8 @@
       "2026-03-11": 58,
       "2026-03-15": 16,
       "2026-03-18": 50,
-      "2026-09-03": 506
+      "2026-09-03": 506,
+      "2026-11-14": 25
     }
   },
   {
@@ -277,13 +284,13 @@
     "url": "https://pastasblanes.deliverysol.com/",
     "icon": "https://icons.duckduckgo.com/ip3/pastasblanes.deliverysol.com.ico",
     "slug": "pastas-blanes-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "98.50%",
-    "time": 423,
+    "time": 424,
     "timeDay": 612,
     "timeWeek": 596,
     "timeMonth": 602,
@@ -306,7 +313,8 @@
       "2026-03-11": 58,
       "2026-03-15": 16,
       "2026-03-18": 49,
-      "2026-09-03": 496
+      "2026-09-03": 496,
+      "2026-11-14": 20
     }
   },
   {
@@ -314,13 +322,13 @@
     "url": "https://pizzariing.uy",
     "icon": "https://icons.duckduckgo.com/ip3/pizzariing.uy.ico",
     "slug": "pizza-riing-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.50%",
-    "time": 534,
+    "time": 535,
     "timeDay": 732,
     "timeWeek": 717,
     "timeMonth": 754,
@@ -344,7 +352,8 @@
       "2026-03-11": 58,
       "2026-03-15": 15,
       "2026-03-18": 48,
-      "2026-09-03": 487
+      "2026-09-03": 487,
+      "2026-11-14": 15
     }
   },
   {
@@ -352,12 +361,12 @@
     "url": "https://pizzatime.uy",
     "icon": "https://icons.duckduckgo.com/ip3/pizzatime.uy.ico",
     "slug": "pizza-time-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.52%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "98.51%",
     "time": 511,
     "timeDay": 722,
     "timeWeek": 673,
@@ -380,7 +389,8 @@
       "2026-03-06": 24,
       "2026-03-11": 58,
       "2026-03-18": 48,
-      "2026-09-03": 478
+      "2026-09-03": 478,
+      "2026-11-14": 10
     }
   },
   {
@@ -388,13 +398,13 @@
     "url": "https://saborypico.uy/",
     "icon": "https://icons.duckduckgo.com/ip3/saborypico.uy.ico",
     "slug": "sabor-y-pico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.52%",
-    "time": 508,
+    "time": 509,
     "timeDay": 723,
     "timeWeek": 690,
     "timeMonth": 685,
@@ -416,7 +426,8 @@
       "2026-03-06": 23,
       "2026-03-11": 58,
       "2026-03-18": 47,
-      "2026-09-03": 468
+      "2026-09-03": 468,
+      "2026-11-14": 6
     }
   },
   {
@@ -424,10 +435,10 @@
     "url": "https://mobilitysol.com:3443/",
     "icon": "https://icons.duckduckgo.com/ip3/mobilitysol.com.ico",
     "slug": "metabase-uy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1775,
@@ -435,6 +446,8 @@
     "timeWeek": 1771,
     "timeMonth": 1775,
     "timeYear": 1775,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-14": 1
+    }
   }
 ]
